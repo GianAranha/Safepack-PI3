@@ -1,6 +1,6 @@
 # PI3-ES-2024-T10 - Safepack
 
-Projeto Integrador III - Guarda Volumes \
+Projeto Integrador III - Guarda Volumes - Safepack
 
 O arquivo com o aplicativo executável encontra-se no seguinte diretório:  
  - PI3-ES-2024-T10/APP/APK/release/app-release.apk. \
